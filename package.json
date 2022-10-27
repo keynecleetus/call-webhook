@@ -3,6 +3,7 @@
   "displayName": "call_webhook",
   "description": "this is to test call to webhook",
   "publisher": "kyntrack",
+  "repository": "https://github.com/keynecleetus/call-webhook",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
